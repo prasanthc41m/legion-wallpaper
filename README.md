@@ -1,4 +1,4 @@
-# legion-wallpaper
+# Legion Wallpaper
 A time based color changing gnome backgroung for Lenovo Legion 
 
 ```
