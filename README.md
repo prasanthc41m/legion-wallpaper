@@ -7,4 +7,4 @@ git clone https://github.com/prasanthc41m/legion-wallpaper.git
 cd legion-wallpaper
 sudo make install
 ```
-![Screenshot](https://raw.githubusercontent.com/prasanthc41m/legion-wallpaper/main/Legion-light.jpg)
+![Screenshot](Legion.gif)
