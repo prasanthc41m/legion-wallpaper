@@ -11,7 +11,8 @@ install:
 	mkdir -p $(BG_LOCATION)
 	cp -R Legion.jpg Legion-light.jpg Legion-morning.jpg Legion-timed.xml  $(BG_LOCATION)
 	cp -R Legion.xml  $(CONF_LOCATION)
-	echo 'Wallpaper installed. Use GNOME Settings to change.'
+	gsettings set org.gnome.desktop.background picture-uri-dark file:///usr/share/backgrounds/Legion/Legion-timed.xml
+	echo 'Wallpaper installed.'
 
 uninstall:
 	rm -rf $(BG_LOCATION)
