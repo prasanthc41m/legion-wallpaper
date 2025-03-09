@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper deleted="false">
+<name>Legion Official</name>
+<filename> /usr/share/backgrounds/Legion/default/Legion-blue-d.xml </filename>
+<filename-dark> /usr/share/backgrounds/Legion/light/Legion-blue-l.xml </filename-dark>
+<options>zoom</options>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Legion Official</name>
+<filename> /usr/share/backgrounds/Legion/light/Legion-timed-l.xml </filename>
+<filename-dark> /usr/share/backgrounds/Legion/default/Legion-timed-d.xml </filename-dark>
+<options>zoom</options>
+</wallpaper>
+</wallpapers>
